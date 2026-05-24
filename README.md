@@ -2,14 +2,14 @@
 
 Intern ID: CITS1152
 
-## 📌 Project Overview
+## Project Overview
 This Machine Learning project segments mall customers into groups using K-Means clustering based on customer spending behavior and annual income.
 
 The project helps businesses understand customer categories for better marketing and decision-making.
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - NumPy
@@ -19,7 +19,7 @@ The project helps businesses understand customer categories for better marketing
 
 ---
 
-## 📂 Dataset
+## Dataset
 The dataset contains:
 - Customer ID
 - Gender
@@ -32,7 +32,7 @@ Dataset file:
 
 ---
 
-## ⚙️ Project Workflow
+## Project Workflow
 1. Data Loading  
 2. Data Analysis  
 3. Feature Selection  
@@ -42,7 +42,7 @@ Dataset file:
 
 ---
 
-## 📊 Features
+## Features
 - Customer segmentation using K-Means
 - Elbow Method visualization
 - Cluster visualization
@@ -50,5 +50,5 @@ Dataset file:
 
 ---
 
-## 👩‍💻 Author
+## Author
 Amrutha Bachina
